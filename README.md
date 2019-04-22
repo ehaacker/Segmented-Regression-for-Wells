@@ -22,6 +22,6 @@ ResultsExplorer - takes summarized segmented regression results and input result
 
 PyramidsOfGMAs - "GMA" stands for Groundwater Management Area. This script creates "pyramid" plots of water table trajectory change (breakpoints) with respect to the establishment of GMAs on the High Plains. And calculates mean precipitation by region. hmmm
 
-...Possibly some more steps in Access and Excel...
+...More steps in Access and Excel...
 
-Multiple_Linear_Regression and ARIMA scripts - perform additional analyses to correlate breakpoints with precipitation/drought and crop prices. MLR seems to be an earlier version of analyses included in ARIMA scripts. 
+Breakpoints_CART - this script creates a Classification And Regression Tree (CART) model for breakpoints in the High Plains, with positive/negative breakpoints as the response variable, with covariates including change in drought conditions, change in corn price, and establishment of management districts. 
